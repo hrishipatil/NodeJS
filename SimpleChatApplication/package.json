@@ -1,0 +1,27 @@
+{
+  "name": "SimpleChatApplication",
+  "version": "1.0.0",
+  "description": "Simple Chat Application using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrishipatil12/NodeJS.git"
+  },
+  "keywords": [
+    "Chat",
+    "Application",
+    "NodeJS"
+  ],
+  "author": "hrishipatil12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishipatil12/NodeJS/issues"
+  },
+  "homepage": "https://github.com/hrishipatil12/NodeJS",
+  "dependencies": {
+    "express": "^4.9.5"
+  }
+}
